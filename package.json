@@ -1,0 +1,25 @@
+{
+  "name": "a3_melikahamedani",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Melikahamedani/Web322-A3.git"
+  },
+  "author": "Melika Hamedani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melikahamedani/Web322-A3/issues"
+  },
+  "homepage": "https://github.com/Melikahamedani/Web322-A3#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "multer": "^1.4.5-lts.1"
+  }
+}
